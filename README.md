@@ -9,7 +9,8 @@ An end-to-end **blue-team** lab: a **Wazuh 4.7.5** SIEM detecting **7 simulated 
 scanning and SSH brute force to a real CVE exploit (Slowloris DoS) — with every event logged,
 alerted, and mapped to **MITRE ATT&CK** in real time. Built from scratch on two virtual machines.
 
-📄 **Full report with screenshots:** [SIEM_Threat_Detection_Lab_Report.pdf](./SIEM_Threat_Detection_Lab_Report.pdf)
+📄 **Full report:** all 12 pages (with screenshots) are rendered inline at the
+[bottom of this page](#-full-report), or [download the PDF](./SIEM_Threat_Detection_Lab_Report.pdf).
 
 ---
 
@@ -80,3 +81,25 @@ Virtualized on VMware Workstation 17 Player in an isolated network.
 
 *Built for educational purposes in an isolated lab environment. Part of a cybersecurity portfolio
 by Sarjan Patel.*
+
+---
+
+## 📄 Full Report
+
+The complete 12-page report, rendered inline (also available as a
+[downloadable PDF](./SIEM_Threat_Detection_Lab_Report.pdf)):
+
+<p align="center">
+<img src="./report/page-01.jpg" width="850" alt="Report page 1 — overview">
+<img src="./report/page-02.jpg" width="850" alt="Report page 2">
+<img src="./report/page-03.jpg" width="850" alt="Report page 3">
+<img src="./report/page-04.jpg" width="850" alt="Report page 4">
+<img src="./report/page-05.jpg" width="850" alt="Report page 5">
+<img src="./report/page-06.jpg" width="850" alt="Report page 6">
+<img src="./report/page-07.jpg" width="850" alt="Report page 7">
+<img src="./report/page-08.jpg" width="850" alt="Report page 8">
+<img src="./report/page-09.jpg" width="850" alt="Report page 9">
+<img src="./report/page-10.jpg" width="850" alt="Report page 10">
+<img src="./report/page-11.jpg" width="850" alt="Report page 11">
+<img src="./report/page-12.jpg" width="850" alt="Report page 12">
+</p>
